@@ -6,4 +6,18 @@
 
 
 # Installation of Dev software packages
-- python
+- DS: python, R
+- WD: python, NodeJS,
+
+
+
+## Python installaion
+[source](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
+```
+sudo apt update
+
+# install supporting software
+sudo apt install software-properties-common
+
+```
+
